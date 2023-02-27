@@ -22,10 +22,10 @@
   <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo"  /></a>
   <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo"  />
   <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio logo"  />
+  <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo"  />
 </br>
   <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase logo"  />
   <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  />
   <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver logo"  />
 </br>
-  <img margin="10" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo"  />
 </div>
