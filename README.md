@@ -11,6 +11,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nveen9&layout=compact&langs_count=8&theme=transparent"/> 
 </div>
 </br>
+</div>
+
+<div align="center">
+## Tech
+
 <div align="center">
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  /></a>
   <a margin="10" href="https://www.oracle.com/java/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo"  /></a>
@@ -28,4 +33,5 @@
   <a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  /></a>
   <a margin="10" href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver logo"  /></a>
 </br>
+</div>
 </div>
