@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hi there 👋 I'm Naveen</h1>
 
-An Information Technology Undergraduate & A Young Researching Developer 👨‍💻
+👨‍💻 An Information Technology Undergraduate & A Young Researching Developer
+  
+📫 Reach Me, [naveenperera9@gmail.com](mailto:naveenperera9@gmail.com)
 </br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=nveen9&show_icons=true&theme=transparent"/> 
