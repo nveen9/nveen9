@@ -3,7 +3,8 @@
 
 👨‍💻 An Information Technology Undergraduate & A Young Researching Developer
   
-📫 Reach Me, [naveenperera9@gmail.com](mailto:naveenperera9@gmail.com)
+📫 Reach Me
+  * [naveenperera9@gmail.com](mailto:naveenperera9@gmail.com)
 </br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=nveen9&show_icons=true&theme=transparent"/> 
