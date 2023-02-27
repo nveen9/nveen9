@@ -7,5 +7,5 @@
 </div>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nveen9&layout=compact&theme=transparent"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nveen9&layout=compact&langs_count=8&theme=transparent"/> 
 </div>
