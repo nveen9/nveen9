@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I'm Naveen</h1>
 
-<h3> IT Undergraduate & Young Developer 👨‍💻</h3>
+An Information Technology Undergraduate & A Young Researching Developer 👨‍💻
 </br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=nveen9&show_icons=true&theme=transparent"/> 
