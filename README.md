@@ -1,7 +1,7 @@
 <div align="center">
-# Hi there 👋 I'm Naveen Perera
+  <h1>Hi there 👋 I'm Naveen Perera</h1>
 
-## IT Undergraduate & Young Developer
+<h3> IT Undergraduate & Young Developer</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nveen9&show_icons=true&theme=transparent"/> 
