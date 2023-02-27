@@ -2,10 +2,13 @@
   <h1>Hi there 👋 I'm Naveen</h1>
 
 <h3> IT Undergraduate & Young Developer</h3>
-
+</br>
+</br>
 <img src="https://github-readme-stats.vercel.app/api?username=nveen9&show_icons=true&theme=transparent"/> 
 </br>
+</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nveen9&layout=compact&langs_count=8&theme=transparent"/> 
+</br>
 </br>
 </div>
 
