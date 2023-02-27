@@ -45,4 +45,8 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>
