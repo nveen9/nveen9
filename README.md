@@ -14,7 +14,7 @@
 
 <div align="center">
   
-## Tech
+## Skills
   
 </br>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  /></a>
