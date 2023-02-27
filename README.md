@@ -29,6 +29,7 @@
 <a margin="10" href="https://visualstudio.microsoft.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio logo"  /></a>
 <a margin="10" href="https://code.visualstudio.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo"  /></a>
 </br>
+</br>
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase logo"  /></a>
 <a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  /></a>
 <a margin="10" href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver logo"  /></a>
