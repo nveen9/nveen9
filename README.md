@@ -7,7 +7,7 @@
 [naveenperera9@gmail.com](mailto:naveenperera9@gmail.com)
 </br>
 </br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nveen9&show_icons=true&theme=transparent"/> 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nveen9&show_icons=true&theme=gruvbox"/> 
 </br>
 </br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nveen9&layout=compact&langs_count=8&theme=transparent"/> 
