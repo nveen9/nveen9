@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nveen9&show_icons=true&theme=gruvbox"/> 
 </br>
 </br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nveen9&layout=compact&langs_count=8&theme=transparent"/> 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nveen9&layout=compact&langs_count=8&theme=gruvbox"/> 
 </br>
 </br>
 </div>
