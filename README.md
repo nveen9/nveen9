@@ -26,6 +26,10 @@
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase logo"  /></a>
 </br>
 </br>
+<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo"  /></a>
+<a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  /></a>
+</br>
+</br>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  /></a>
 <a margin="10" href="https://www.oracle.com/java/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo"  /></a>
 <a margin="10" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo"  /></a>
