@@ -23,6 +23,7 @@
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  /></a>
 <a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  /></a>
 <a margin="10" href="https://expressjs.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo"  /></a>
+<a margin="10" href="https://www.mongodb.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo"  /></a>
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase logo"  /></a>
 </br>
 </br>
