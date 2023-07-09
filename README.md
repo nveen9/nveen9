@@ -17,7 +17,7 @@
 
 <div align="center">
   
-## Skills
+## Tech Stack
   
 </br>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  /></a>
