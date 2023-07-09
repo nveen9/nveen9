@@ -48,7 +48,7 @@
 <a margin="10" href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver logo"  /></a>
 </br>
 
-## Social
+## 🦸⛹️ Social
   
 <br />
 
