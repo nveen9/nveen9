@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I'm Naveen</h1>
 
-👨‍💻 An Information Technology Undergraduate & A Young Researching Developer
+👨‍💻  An Aspiring & Researching Software Engineer and An Information Technology Undergraduate
   
 📫 Reach Me
 [naveenperera9@gmail.com](mailto:naveenperera9@gmail.com)
