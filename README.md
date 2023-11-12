@@ -3,7 +3,7 @@
 
 👨‍💻  An Aspiring & Researching Software Engineer and An Information Technology Undergraduate
   
-😉 Find Me
+👾 Find Me
 </br>
 </br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nveen9&show_icons=true&theme=gruvbox"/> 
