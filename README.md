@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I'm Naveen</h1>
 
-👨‍💻  An Aspiring & Researching Software Engineer and An Information Technology Undergraduate
+👨‍💻  An Aspiring & Researching Software Engineer
   
 👾 Find Me
 </br>
