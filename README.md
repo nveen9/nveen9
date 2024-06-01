@@ -17,17 +17,17 @@
 <div align="center">
   
 ## 🤖 Tech Stack
-  
+
+</br>
+<a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="70" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular logo"  /></a>
+<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo"  /></a>
+<a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  /></a>
+</br>
 </br>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  /></a>
 <a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  /></a>
 <a margin="10" href="https://expressjs.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo"  /></a>
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase logo"  /></a>
-</br>
-</br>
-<a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="70" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular logo"  /></a>
-<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo"  /></a>
-<a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  /></a>
 </br>
 </br>
 <a margin="10" href="https://www.docker.com/" target="_blank"><img margin="10px" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker logo"  /></a>
