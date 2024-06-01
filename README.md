@@ -21,8 +21,8 @@
 </br>
 <a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="70" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular logo"  /></a>
 <a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo"  /></a>
+<a margin="10" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"><img margin="10px" height="70" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" alt="oracle logo"  /></a>
 <a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  /></a>
-<a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="70" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" alt="oracle logo"  /></a>
 </br>
 </br>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  /></a>
