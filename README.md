@@ -49,14 +49,11 @@
 </a>
 </br>
 </br>
-<a margin="10" href="https://www.jenkins.io/" target="_blank" title="Jenkins">
-  <img margin="10px" height="40" src="https://www.jenkins.io/images/logos/jenkins/256.png" alt="jenkins logo"  />
+<a margin="10" href="https://www.jenkins.io/" target="_blank" title="Jenkins"><img margin="10px" height="40" src="https://www.jenkins.io/images/logos/jenkins/256.png" alt="jenkins logo"  />
 </a>
-<a margin="10" href="https://www.docker.com/" target="_blank" title="Docker">
-  <img margin="10px" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker logo"  />
+<a margin="10" href="https://www.docker.com/" target="_blank" title="Docker"><img margin="10px" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker logo"  />
 </a>
-<a margin="10" href="https://kubernetes.io/" target="_blank" title="Kubernetes">
-  <img margin="10px" height="40" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.png" alt="kubernetes logo"  />
+<a margin="10" href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img margin="10px" height="40" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.png" alt="kubernetes logo"  />
 </a>
 </br>
 </br>
