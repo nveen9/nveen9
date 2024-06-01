@@ -96,11 +96,15 @@
 
 <br />
 
-<a href="https://linkedin.com/in/perera-naveen/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; " /></a>
+<a href="https://linkedin.com/in/perera-naveen/" target="_blank">
+  <img margin="10px" src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
 
-<a href="https://www.facebook.com/naveen.perera99" target="_blank"><img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px; " /></a>
+<a href="https://www.facebook.com/naveen.perera99" target="_blank">
+  <img margin="10px" src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter />
+</a>
 
 <a href="https://www.instagram.com/s.c.r.o.ll/" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; " />
+  <img margin="10px" src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
 </a>
 </div>
