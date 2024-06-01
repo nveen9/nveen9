@@ -21,7 +21,6 @@
 ## 🤖 Tech Stack
 
 </br>
-<div>
 <a margin="10" href="https://angular.io/" target="_blank" title="Angular">
   <img margin="10px" height="70" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular logo"  />
 </a>
@@ -91,24 +90,18 @@
 <a margin="10" href="https://figma.com" target="_blank" title="Figma">
   <img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo"  />
 </a>
-</div>
 </br>
 
 ## Social
 
 <br />
 
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-<a href="https://linkedin.com/in/perera-naveen/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
+<a href="https://linkedin.com/in/perera-naveen/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
 </a>
 
-<a href="https://www.facebook.com/naveen.perera99" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
+<a href="https://www.facebook.com/naveen.perera99" target="_blank"><img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
 </a>
 
-<a href="https://www.instagram.com/s.c.r.o.ll/" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
+<a href="https://www.instagram.com/s.c.r.o.ll/" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
 </a>
-</div>
 </div>
