@@ -21,6 +21,7 @@
 ## 🤖 Tech Stack
 
 </br>
+<div>
 <a margin="10" href="https://angular.io/" target="_blank" title="Angular">
   <img margin="10px" height="70" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular logo"  />
 </a>
@@ -90,6 +91,7 @@
 <a margin="10" href="https://figma.com" target="_blank" title="Figma">
   <img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo"  />
 </a>
+</div>
 </br>
 
 ## Social
