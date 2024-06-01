@@ -54,7 +54,7 @@
 ## Social
 
 <br />
-<a href="https://linkedin.com/in/perera-naveen/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/></a>
-<a href="https://www.facebook.com/naveen.perera99" target="_blank"><img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/></a>
-<a href="https://www.instagram.com/s.c.r.o.ll/" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/></a>
+<a href="https://linkedin.com/in/perera-naveen/" target="_blank"><img src=https://img.shields.io/badge/linkedin-0762C8?style=for-the-badge&logo=linkedin alt=linkedin/></a>
+<a href="https://www.facebook.com/naveen.perera99" target="_blank"><img src=https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook alt=facebook/></a>
+<a href="https://www.instagram.com/s.c.r.o.ll/" target="_blank"><img src=https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram alt=instagram/></a>
 </div>
