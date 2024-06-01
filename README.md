@@ -30,6 +30,7 @@
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase logo"  /></a>
 </br>
 </br>
+<a margin="10" href="https://www.jenkins.io/" target="_blank"><img margin="10px" height="40" src="https://www.jenkins.io/images/logos/jenkins/256.png" alt="jenkins logo"  /></a>
 <a margin="10" href="https://www.docker.com/" target="_blank"><img margin="10px" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker logo"  /></a>
 </br>
 </br>
@@ -37,7 +38,7 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  /></a>
 <a margin="10" href="https://www.typescriptlang.org/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo"  /></a>
 <a margin="10" href="https://www.jetbrains.com/idea/" target="_blank"><img margin="10px" height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ logo"  /></a>
-<a margin="10" href="https://www.jetbrains.com/idea/" target="_blank"><img margin="10px" height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="IntelliJ logo"  /></a>
+<a margin="10" href="https://www.jetbrains.com/idea/" target="_blank"><img margin="10px" height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm logo"  /></a>
 <a margin="10" href="https://code.visualstudio.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo"  /></a>
 <a margin="10" href="https://developer.android.com/studio/intro" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo"  /></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  /></a>
