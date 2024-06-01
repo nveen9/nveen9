@@ -46,6 +46,8 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  /></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"  /></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo"  /></a>
+<a margin="10" href="https://www.elastic.co/kibana" target="_blank"><img margin="10px" height="40" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg" alt="kibana logo"  /></a>
+<a margin="10" href="https://grafana.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana logo"  /></a>
 </br>
 
 ## Social
